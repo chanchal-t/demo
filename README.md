@@ -1,6 +1,6 @@
 # demo
 <pre>
-exampler repository
+exampler repository.
 
-author-chanchal tiwari
+author-chanchal tiwari.
 </pre>
